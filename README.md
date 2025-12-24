@@ -1,5 +1,7 @@
 # AED 2025 - Trabalho 1: Imagens com Cor Indexada (Pseudocor)
 
+## Grade: 17,4
+
 Este projeto foi desenvolvido como parte do Trabalho 1 da disciplina de **Algoritmos e Estruturas de Dados (AED)**, no ano letivo de 2025. O objetivo é implementar operações básicas e avançadas para manipulação de imagens com cor indexada.
 
 ## Estrutura do Projeto
